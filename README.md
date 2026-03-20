@@ -13,6 +13,7 @@ Currently focused on React, TypeScript, and Node.js — with growing interests i
 - **Developer Experience** — Implemented hot-reload workflows, dependency injection layers, and comprehensive documentation to accelerate team velocity
 - **Data Visualization** — Built analytics products with D3.js, mapping libraries, and real-time monitoring dashboards
 - **AI Engineering** — Exploring agentic coding patterns, prompt engineering, and AI-assisted development workflows
+- - **OSS Contributor** - [DerbyJS](https://github.com/derbyjs), [hapi-raygun](https://github.com/craigbeck/hapi-raygun), Sequelize, NeedleDI
 
 ## Tech
 
@@ -20,5 +21,6 @@ JavaScript, TypeScript, React, Node.js, Webpack, REST APIs, PostgreSQL, MySQL, E
 
 ## Links
 
+- [craigbeck.io](http://craigbeck.io)
 - [LinkedIn](https://linkedin.com/pub/craig-beck/9/a48/554)
 - [GitHub](https://github.com/craigbeck)
